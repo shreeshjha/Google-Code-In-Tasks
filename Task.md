@@ -16,7 +16,7 @@ Link To [Website](https://gci18.fossasia.org/) Created During the Competetion
 - PSLab: Learn about Light Temperature with the [PSLab Luxmeter](https://codein.withgoogle.com/archive/2018/t/6221792763969536/)
 - Website: Create a personal portfolio site using GitHub Pages and [open source web standards and technologies](https://codein.withgoogle.com/archive/2018/t/4923423848398848/)
 - SUSI.AI: Deploy SUSI Server on [Google Cloud](https://codein.withgoogle.com/archive/2018/t/6035938087010304/)
-- SUSI.AI (Advanced): Create a Screencast Video and Show How to set up SUSI Server on [Google Cloud with Kubernetes](https://codein.withgoogle.com/archive/2018/t/4622100972175360/)
+- SUSI.AI (Advanced): Create a Screencast Video and Show How to set up SUSI Server on [Google Cloud with Kubernetes](https://codein.withgoogle.com/archive/2018/t/4622100972175360/) Youtube Link for the screencast video :- [SUSI server deployed](https://youtu.be/ksmRYWr_8-I)
 - Labyrinth: Add a [character](https://codein.withgoogle.com/archive/2018/t/6702353802592256/)
 - Website: Improve and Update FOSSASIA.org [Team Page](https://codein.withgoogle.com/archive/2018/t/5940974279720960/)
 - PSLab: Write what you can do with a [PSLab Android Oscilloscope Instrument](https://codein.withgoogle.com/archive/2018/t/6587441617043456/)
